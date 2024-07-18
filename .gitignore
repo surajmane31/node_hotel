@@ -1,3 +1,4 @@
 # ingnore node module directry
 
 node_modules/
+.env
